@@ -31,7 +31,7 @@ Vậy nên khi chạy code nếu dùng đến 2 data này vui lòng lưu ý đư
 B1: Setup môi trường
 Sử dụng command Prompt chạy các dòng lệnh sau:
 
-python -m pip install dash==2.8.1 pandas==1.5.3
+pip install -r requirements.txt
 
 mkdir Dashboard 
 cd Dashboard  
