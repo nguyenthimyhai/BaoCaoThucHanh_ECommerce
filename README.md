@@ -42,4 +42,4 @@ B2: Copy thư mục assets, dataset và file app, requirements vào thư mục D
 
 B2: Khởi chạy app.py để mở dashboard bằng dòng lệnh sau: Python app.py
 
-B3: Copy link http và mở trên trình duyệt web để mở dashboard 
+B3: Copy link [http](http://localhost:8050/) và mở trên trình duyệt web để mở dashboard 
