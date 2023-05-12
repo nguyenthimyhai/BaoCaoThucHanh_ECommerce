@@ -1,0 +1,6 @@
+Model_name,test_loss,test_accuracy
+RNN,[69.23],[52.98]
+GRU,[77.95],[51.32]
+BGRU,[80.84],[51.22]
+LSTM,[76.33],[51.43]
+BiLSTM,[80.48],[52.03]
