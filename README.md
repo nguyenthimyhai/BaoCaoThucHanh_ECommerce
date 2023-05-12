@@ -3,6 +3,7 @@
  Đề tài: Dự báo xu hướng giá chứng khoán dựa trên phương pháp mô hình hóa thống kê
  
 GVHD: Ths. Đỗ Duy Thanh
+
 HVTH nhóm 01:
 1. Nguyễn Thị Mỹ Hải - 210104006
 2. Đỗ Chí Bảo - 210104002
