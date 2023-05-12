@@ -1,5 +1,6 @@
 # BaoCao_ECommerce
  Báo cáo Thực hành cuối kỳ môn Công nghệ Thương mại Điện tử
+ 
  Đề tài: Dự báo xu hướng giá chứng khoán dựa trên phương pháp mô hình hóa thống kê
  
 GVHD: Ths. Đỗ Duy Thanh
