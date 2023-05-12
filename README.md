@@ -34,8 +34,11 @@ Sử dụng command Prompt chạy các dòng lệnh sau:
 pip install -r requirements.txt
 
 mkdir Dashboard 
+
 cd Dashboard  
+
 python -m venv venv 
+
 venv\Scripts\activate
 
 B2: Copy thư mục assets, dataset và file app, requirements vào thư mục Dashboard mới tạo
